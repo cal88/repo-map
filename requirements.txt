@@ -3,3 +3,4 @@ tqdm==4.66.5
 aiohttp==3.10.7
 certifi==2024.8.30
 pathspec==0.12.1
+python-dotenv==1.0.0
