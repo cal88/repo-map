@@ -214,7 +214,14 @@ lib-cov/
 *.so
 *.egg
 *.egg-info/
+*.pyc
 __pycache__/
+.env
+.vscode/
+.repo_map_structure.json
+.repo-map-cache.db
+tests/test_output/*
+!tests/test_output/.gitkeep
 .Python
 *.manifest
 *.spec
